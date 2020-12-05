@@ -115,7 +115,7 @@ Lady Inerva Darkvein
 	- **66%** : **Greater Sins and Suffering** Lasery się obracają
 
 - <img src="https://wow.zamimg.com/images/wow/icons/large/ui_venthyranimaboss_monster.jpg" alt="Lightly Concentrated Anima" width="25"/> **Lightly Concentrated Anima** Losowy gracz dostaje debuffa którego odkłada niedaleko bossa, wybucha na 8 yardów respiąc Harnessed Specter który się nie rusza i trzeba go tankować. ``Odstawić debuff i adda przy bosie -> HARD swap na adda``  
-	- **33%** : **Concentrated Anima** Osoba z debuffem nie może się poruszać, cały raid powinien stac w okolicy bossa  
+	- **33%** : **Concentrated Anima** Osoba z debuffem nie może się poruszać, cały raid powinien stać w okolicy bossa  
 	- **66%** : **Highly Concentrated Anima** Przy wybychu rozchodzą się dodatkowe kulki których trzeba unikać
 ### HC
 - <img src="https://wow.zamimg.com/images/wow/icons/large/ui_venthyranimaboss_monster.jpg" alt="Lightly Concentrated Anima" width="25"/> **Lightly Concentrated Anima** Pojawiają się dwa niruszające się addy których nie trzeba tankować i castują raid-wide dmg. ``Rotacja interruptów na dodatkowych addach (2/3 melee)``
